@@ -1,0 +1,11 @@
+[package]
+name = "urlencoder"
+version = "0.1.0"
+edition = "2021"
+authors = ["Peter Winckles"]
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+atty = "0.2"
+structopt = "0.3"
+urlencoding = "2"
